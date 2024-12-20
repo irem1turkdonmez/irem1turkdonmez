@@ -1,5 +1,2 @@
 hello_world("print")
 çok akıllıca kod
-
-
-verimli bir projedir
